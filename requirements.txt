@@ -1,5 +1,7 @@
 streamlit
+pdfplumber
+pdf2image
+pytesseract
+Pillow
 python-dotenv
 google-generativeai
-streamlit-mermaid
-pdfplumber
